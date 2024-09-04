@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Allison!
+
+I'm a full-stack software engineer with backend leaning experience. I'm proficient in JavaScript/TypeScript, Go, Node.js, React, Express, PostgreSQL, Docker, AWS and other tools. 
+
+Most recently, I built [DataLoaf](https://data-loaf.com/), an open-source product analytics platform that focuses on the core features needed to effectively determine how your users are interacting with your applications. You can read our in-depth technical case study [here](https://data-loaf.com/) and see our code [here](https://github.com/data-loaf)! 
 
 <!--
 **AlliLearns/AlliLearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
